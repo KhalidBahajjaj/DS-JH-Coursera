@@ -1,1 +1,1 @@
-# DS-JS-Coursera
+# Data Science Specialization -Johns Hopkins University - Coursera
